@@ -1,4 +1,4 @@
-## ProNews Documentation
+## Admin Panel Documentation
 
 ### Quick Start
 
